@@ -73,7 +73,7 @@ section#works {
 
 section#works > div {
     margin: 22px;
-    max-width: 160px;
+    max-width: 400px;
     display: inline-block;
 }
 
